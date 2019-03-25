@@ -6,3 +6,10 @@
 
 
 A visual structure folder generator, ready for share.
+
+<!--# Introduction-->
+<!--# Features-->
+<!--# Thanks to-->
+# Authors
+- Gabriel Nobrega ([@ganobrega](https://github.com/ganobrega))
+<!--# Contributors-->
