@@ -1,6 +1,6 @@
 # 🌲 Tree
 
-![GitHub](https://img.shields.io/github/license/ganobrega/tree.svg?style=flat-square)
+![GitHub](https://img.shields.io/github/license/ganobrega/tree.svg?style=flat-square?1)
 ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
 ![Maintenance](https://img.shields.io/badge/PR's-welcome-brightgreen.svg)
 
