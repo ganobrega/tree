@@ -3,7 +3,7 @@
   "name": "tree",
   "productName": "tree",
   "description": "A visual structure folder generator, ready for share.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "poi",
