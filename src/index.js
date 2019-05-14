@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 const Root = () => (
-    <Fragmet>
+    <Fragment>
         <App/>
-    </Fragmet>n
+    </Fragment>
 )
 
 ReactDOM.render(<Root />, document.getElementById('root'));
